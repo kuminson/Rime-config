@@ -96,6 +96,7 @@ history:
 
 reverse_lookup:
   dictionary: pinyin_simp  # 反查使用的拼音词库
+#  dictionary: luna_pinyin_simp
   prism: double_pinyin_flypy
   prefix: "z"              # 反查前缀，以它为起点
   suffix: "'"              # 反查后缀，以它为结点
